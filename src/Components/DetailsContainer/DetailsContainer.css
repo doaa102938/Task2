@@ -1,0 +1,64 @@
+#DetailsDiv {
+    width: 50%;
+    background-color: white;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 0 10px 10px 0;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+#PriceDiv {
+    width: 100%;
+    display: flex;
+    column-gap: 30px;
+    border-radius: 10px 0 0 10px;
+    align-items: center;
+
+}
+
+#header {
+    margin: 0;
+    line-height: 30px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+#Desc {
+    margin: 0;
+    font-size: 14px;
+    color: hsl(228, 12%, 48%);
+
+}
+
+#Cartbtn {
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: hsl(158, 36%, 37%);
+    cursor: pointer;
+    color: white;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+}
+
+#PriceLabel {
+    font-size: 30px;
+    color: hsl(158, 36%, 37%);
+    font-weight: bold;
+}
+
+#PriceDisc {
+    font-size: 14px;
+    color: hsl(228, 12%, 48%);
+}
+
+#title {
+    color: hsl(228, 12%, 48%);
+    letter-spacing: 4px;
+    font-size: 12px;
+}

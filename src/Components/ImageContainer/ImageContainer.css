@@ -11,8 +11,8 @@
 
 @media only screen and (max-width: 600px) {
     #ImageDiv {
-        width: 80%;
-        height: 350px;
+        width: 85%;
+        height: 300px;
     }
 
     #PerImg {
